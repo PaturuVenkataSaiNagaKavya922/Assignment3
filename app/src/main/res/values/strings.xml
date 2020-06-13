@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment03</string>
+    <string name="go_to_phone">Go To Phone</string>
+    <string name="enter_phn_no">Enter Phn-No:-</string>
+</resources>
